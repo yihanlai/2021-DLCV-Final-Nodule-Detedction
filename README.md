@@ -15,3 +15,5 @@ We divided the objective into two main tasks:
 - annotations.csv: csv file that contains the annotations. Each line holds the SeriesInstanceUID of the scan, the x, y, and z position of each finding in world coordinates; and the corresponding diameter in mm.
 
 
+This is a clipped CT image with the bounding box of candidate nodule.
+![CT image](https://github.com/yihanlai/2021-DLCV-Final-Nodule-Detedction/blob/main/candidate.png)
